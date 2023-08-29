@@ -32,5 +32,5 @@
     <a href="#">Women</a>
     <a href="#">Men</a>
     <a href="#">Sign-In</a>
-    <a href="#">Shop now</a>
+    
 </nav>

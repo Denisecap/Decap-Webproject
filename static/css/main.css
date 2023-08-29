@@ -39,20 +39,28 @@ div.divOnlyClass{
 
 footer
 {
-    font-size: 1000%;
+    font-size: 850%;
     font-style: initial;
     text-align: center;
     font-weight: bold;
     font-weight: 900;
     background-color: white(167, 221, 40);
-        color: black;
+     color: black;
 }
+
+style
+    h1{text-align: center;}
+    p {text-align: center;}
+    div{text-align: center;}
+style
+
+
 
 
 
     footer img{
-        width:30%;
-        height: 0cap;  
+        width: 200%;
+        max-height: fit-content;
             
     }
 

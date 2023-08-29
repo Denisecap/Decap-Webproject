@@ -3,6 +3,11 @@
     JUST DO IT
 </footer>
 
+<h1>
+    SHOP NOW
+</h1>
+
+
 
 
 <div class="gallery">
