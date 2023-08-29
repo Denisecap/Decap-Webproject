@@ -4,5 +4,6 @@
 
 
 
-<p>YOUR DREAM SHOES</p>
+
+<p>SHOP BY SPORTS</p>
 

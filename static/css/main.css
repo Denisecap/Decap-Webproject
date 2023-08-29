@@ -48,11 +48,7 @@ footer
      color: black;
 }
 
-style
-    h1{text-align: center;}
-    p {text-align: center;}
-    div{text-align: center;}
-style
+
 
 
 
@@ -74,6 +70,7 @@ style
     background-position: center; 
     }
     
+    
     nav
     {
         display:flex ;
@@ -88,3 +85,4 @@ style
         text-align: center;      
     }   
   
+
