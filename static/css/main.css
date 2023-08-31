@@ -48,11 +48,9 @@ footer
      color: black;
 }
 
-style
-    h1{text-align: center;}
-    p {text-align: center;}
-    div{text-align: center;}
-style
+    h1 {text-align: center;}
+    p {font-size: x-large;}
+    /*div {text-align: center;}*/
 
 
 
@@ -67,12 +65,24 @@ style
     .gallery{
        display: grid;
        grid-template-columns: 1fr 1fr 1fr;
+       height:50vh;
     }
 
     .gallery div{
-        background-size:cover;
-    background-position: center; 
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
     }
+
+    .gallery div div.image{
+    display: flex;
+     background-size:cover;
+    background-position: center; 
+     height: 100%;
+     filter: grayscale(80%);
+     
+    }
+    
     
     nav
     {
@@ -88,3 +98,4 @@ style
         text-align: center;      
     }   
   
+
