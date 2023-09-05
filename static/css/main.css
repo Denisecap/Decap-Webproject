@@ -50,6 +50,7 @@ footer
 
     h1 {text-align: center;}
     p {font-size: x-large;}
+    
     /*div {text-align: center;}*/
 
 
@@ -64,23 +65,35 @@ footer
 
     .gallery{
        display: grid;
-       grid-template-columns: 1fr 1fr 1fr;
+       grid-template-columns: repeat(3, 1fr);
        height:50vh;
+       gap: 10px;
+       padding:0 10px;
     }
 
-    .gallery div{
+
+
+    .gallery a{
         display: flex;
+        position: relative;
         flex-direction: column;
         justify-content: flex-start;
+        font-size: 130%;
+        font-weight: 800; 
+    }
+
+    .gallery a > div{
+        height:100%;
     }
 
     .gallery div div.image{
-    display: flex;
-     background-size:cover;
-    background-position: center; 
-     height: 100%;
-     filter: grayscale(80%);
-     
+        display: flex;
+        background-size:cover;
+        background-position: center; 
+        height: 100%;
+        filter: grayscale(80%);
+
+            
     }
     
     
