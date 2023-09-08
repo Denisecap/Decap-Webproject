@@ -14,15 +14,30 @@
 <h1>
     YOUR DREAM SHOES
 </h1>
+
 <div class="photos">
-    <img src="/img/shoes.jpg" alt="">
+    <div class="photo1">
 
-     <img src="/img/shoe2.jpg" alt="">
+    </div>
+    <div class="photo2">
 
-    <img src="/img/shoes3.jpg" alt="">
+    </div>
 </div>
-<div class="">
+<div class="photos">
+    <div class="photo3">
+
+    </div>
+    <div class="photo4">
+
+    </div>
 </div>
+
+
+
+
+
+
+
 
     
 
