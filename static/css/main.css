@@ -127,7 +127,7 @@ footer
         display: flex;
         background-image: url(/img/myshoe.jpg);
         background-position: center;
-        
+        background-size: 100%;
     }
 
     .photo2{
@@ -138,11 +138,26 @@ footer
         width: 50%;
         display: flex;
     }
- 
+    
+    .photo5{
+        width: 50%;
+        display: flex;
+    }
   
     .photo4{
         width: 50%;
         display: flex;
         background-image: url(/img/myshoe2.jpg);
+        background-size: 100%;
         background-position: center;
     }
+
+    .photo5{
+        width: 50%;
+        display: flex;
+        background-image: url(/img/myshoe2.jpg);
+        background-size: 100%;
+        background-position: center;
+    }
+
+   

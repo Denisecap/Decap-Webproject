@@ -1,8 +1,9 @@
 <script>
-  import Basketball from "./contact/Basketball.svelte";
+
+  import Header from '$lib/Header.svelte';
 
 </script>
-
+<Header/>
 <footer>
     JUST DO IT
 </footer>
@@ -16,6 +17,8 @@
 
 
 <p>Shop By Sports</p>
+
+
 
 <div class="gallery">
    <a href="/Basketball"> 
@@ -41,7 +44,9 @@
 </div>
 
 
-
+<h1>
+    YOUR DREAM SHOES
+</h1>
 
 
 
