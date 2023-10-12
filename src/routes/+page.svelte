@@ -24,21 +24,21 @@
    <a href="/Basketball"> 
         <div>
             <div class="image" style="background-image: url(/img/Basketball.jpg);"></div>
-            <div>Basketball/Women</div>      
+                 
         </div>
     </a>
 
-    <a href="">
+    <a href="/Football">
     <div>
         <div class="image" style="background-image: url(/img/Football.jpg);"></div>
-        <div>Football/Men</div>
+        
     </div>
     </a>
 
-    <a href="">
+    <a href="/Running">
     <div>
         <div class="image" style="background-image: url(/img/Running.jpg)"></div> 
-        <div>Running</div>
+        
     </div>
     </a>                                                                               
 </div>
@@ -47,6 +47,8 @@
 <h1>
     YOUR DREAM SHOES
 </h1>
+
+
 
 
 

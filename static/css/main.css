@@ -155,9 +155,122 @@ footer
     .photo5{
         width: 50%;
         display: flex;
-        background-image: url(/img/myshoe2.jpg);
+        background-image: url();
         background-size: 100%;
         background-position: center;
     }
+
+
+    .photos{
+        display: flex;
+        width: 100%;
+        flex-direction: row;
+        height: 50vh;
+    }
+
+    .photo1{
+        width: 50%;
+        display: flex;
+        background-image: url(/img/pexels-kevin-mccartney-774321.jpg);
+        background-position: center;
+        background-size: 100%;
+    }
+
+    .photo2{
+        width: 50%;
+        display: flex;
+    }
+    .photo3{
+        width: 50%;
+        display: flex;
+    }
+    
+    .photo5{
+        width: 50%;
+        display: flex;
+    }
+  
+    .photo4{
+        width: 50%;
+        display: flex;
+        background-image: url(/img/footballimg2.jpg);
+        background-size: 100%;
+        background-position: center;
+    }
+
+    .photo5{
+        width: 50%;
+        display: flex;
+        background-image: url(/img/footballimg2.jpg);
+        background-size: 100%;
+        background-position: center;
+    }
+
+
+
+    .photos{
+        display: flex;
+        width: 100%;
+        flex-direction: row;
+        height: 50vh;
+    }
+
+    .photo1{
+        width: 50%;
+        display: flex;
+        background-image: url(/img/running2.jpg);
+        background-position: center;
+        background-size: 100%;
+    }
+
+    .photo2{
+        width: 50%;
+        display: flex;
+    }
+    .photo3{
+        width: 50%;
+        display: flex;
+    }
+    
+    .photo5{
+        width: 50%;
+        display: flex;
+    }
+  
+    .photo4{
+        width: 50%;
+        display: flex;
+        background-image: url(/img/running2.jpg);
+        background-size: 100%;
+        background-position: center;
+    }
+
+    .photo5{
+        width: 50%;
+        display: flex;
+        background-image: url();
+        background-size: 100%;
+        background-position: center;
+    }
+
+
+
+
+    
+    
+
+
+    .footer {
+        position: relative;
+        left: 0;
+        bottom: 0;
+        width: 900px;
+        height: 900px;
+        padding: 60px;
+        
+        background-color: black;
+        color: white;
+        text-align: left;
+      }
 
    
