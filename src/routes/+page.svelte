@@ -1,7 +1,14 @@
+<script>
 
+  import Header from '$lib/Header.svelte';
+
+</script>
+<Header/>
 <footer>
     JUST DO IT
 </footer>
+
+
 
 <h1>
     SHOP NOW
@@ -9,17 +16,40 @@
 
 
 
+<p>Shop By Sports</p>
+
+
 
 <div class="gallery">
-    <div style="background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/max_632/884cd2102018173.5f2c7c7e72091.jpg);"></div>
-    <div style="background-image: url(https://mir-s3-cdn-cf.behance.net/projects/max_808/a58984102018173.Y3JvcCw0MjI5LDMzMDgsNTMzLDE3Nw.jpg);"></div>
-    <div>   
-        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/884cd2102018173.5f2c7c7e72091.jpg" alt="shoe" >                                                                              
-    </div>
+   <a href="/Basketball"> 
+        <div>
+            <div class="image" style="background-image: url(/img/Basketball.jpg);"></div>
+                 
+        </div>
+    </a>
 
+    <a href="/Football">
+    <div>
+        <div class="image" style="background-image: url(/img/Football.jpg);"></div>
+        
+    </div>
+    </a>
+
+    <a href="/Running">
+    <div>
+        <div class="image" style="background-image: url(/img/Running.jpg)"></div> 
+        
+    </div>
+    </a>                                                                               
 </div>
 
 
+<h1>
+    YOUR DREAM SHOES
+</h1>
 
-    
+
+
+
+
 

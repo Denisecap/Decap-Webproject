@@ -48,27 +48,62 @@ footer
      color: black;
 }
 
+<<<<<<< HEAD
+    h1 {text-align: center;}
+    p {font-size: x-large;}
+    
+    /*div {text-align: center;}*/
+=======
 
+>>>>>>> 5389a27a9d6e2454ea99aec7aa1f913ca17555f9
 
 
 
 
 
     footer img{
-        width: 200%;
+        width: 50%;
         max-height: fit-content;
             
     }
 
     .gallery{
        display: grid;
-       grid-template-columns: 1fr 1fr 1fr;
+       grid-template-columns: repeat(3, 1fr);
+       height:50vh;
+       gap: 10px;
+       padding:0 10px;
+       
+
     }
 
-    .gallery div{
-        background-size:cover;
-    background-position: center; 
+
+
+    .gallery .photo{
+        display: flex;
+        position: left;
+        flex-direction: column;
+        justify-content: flex-start;
+        font-size: 100%;
+        font-weight: 500px;
+        height: 50%; 
+        
     }
+
+    .gallery a > div{
+        height:100%;
+    }
+
+    .gallery div div.image{
+        display: flex;
+        background-size:cover;
+        background-position: center; 
+        height: 100%;
+        filter: grayscale(80%);
+
+            
+    }
+    
     
     
     nav
@@ -84,5 +119,168 @@ footer
         padding: 15px 25px;
         text-align: center;      
     }   
+<<<<<<< HEAD
+
+    .photos{
+        display: flex;
+        width: 100%;
+        flex-direction: row;
+        height: 50vh;
+    }
+
+    .photo1{
+        width: 50%;
+        display: flex;
+        background-image: url(/img/myshoe.jpg);
+        background-position: center;
+        background-size: 100%;
+    }
+
+    .photo2{
+        width: 50%;
+        display: flex;
+    }
+    .photo3{
+        width: 50%;
+        display: flex;
+    }
+    
+    .photo5{
+        width: 50%;
+        display: flex;
+    }
+  
+    .photo4{
+        width: 50%;
+        display: flex;
+        background-image: url(/img/myshoe2.jpg);
+        background-size: 100%;
+        background-position: center;
+    }
+
+    .photo5{
+        width: 50%;
+        display: flex;
+        background-image: url();
+        background-size: 100%;
+        background-position: center;
+    }
+
+
+    .photos{
+        display: flex;
+        width: 100%;
+        flex-direction: row;
+        height: 50vh;
+    }
+
+    .photo1{
+        width: 50%;
+        display: flex;
+        background-image: url(/img/pexels-kevin-mccartney-774321.jpg);
+        background-position: center;
+        background-size: 100%;
+    }
+
+    .photo2{
+        width: 50%;
+        display: flex;
+    }
+    .photo3{
+        width: 50%;
+        display: flex;
+    }
+    
+    .photo5{
+        width: 50%;
+        display: flex;
+    }
+  
+    .photo4{
+        width: 50%;
+        display: flex;
+        background-image: url(/img/footballimg2.jpg);
+        background-size: 100%;
+        background-position: center;
+    }
+
+    .photo5{
+        width: 50%;
+        display: flex;
+        background-image: url(/img/footballimg2.jpg);
+        background-size: 100%;
+        background-position: center;
+    }
+
+
+
+    .photos{
+        display: flex;
+        width: 100%;
+        flex-direction: row;
+        height: 50vh;
+    }
+
+    .photo1{
+        width: 50%;
+        display: flex;
+        background-image: url(/img/running2.jpg);
+        background-position: center;
+        background-size: 100%;
+    }
+
+    .photo2{
+        width: 50%;
+        display: flex;
+    }
+    .photo3{
+        width: 50%;
+        display: flex;
+    }
+    
+    .photo5{
+        width: 50%;
+        display: flex;
+    }
+  
+    .photo4{
+        width: 50%;
+        display: flex;
+        background-image: url(/img/running2.jpg);
+        background-size: 100%;
+        background-position: center;
+    }
+
+    .photo5{
+        width: 50%;
+        display: flex;
+        background-image: url();
+        background-size: 100%;
+        background-position: center;
+    }
+
+
+
+
+    
+    
+
+
+    .footer {
+        position: relative;
+        left: 0;
+        bottom: 0;
+        width: 900px;
+        height: 900px;
+        padding: 60px;
+        
+        background-color: black;
+        color: white;
+        text-align: left;
+      }
+
+   
+=======
   
 
+>>>>>>> 5389a27a9d6e2454ea99aec7aa1f913ca17555f9
