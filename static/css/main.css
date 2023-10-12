@@ -48,10 +48,14 @@ footer
      color: black;
 }
 
+<<<<<<< HEAD
     h1 {text-align: center;}
     p {font-size: x-large;}
     
     /*div {text-align: center;}*/
+=======
+
+>>>>>>> 5389a27a9d6e2454ea99aec7aa1f913ca17555f9
 
 
 
@@ -101,6 +105,7 @@ footer
     }
     
     
+    
     nav
     {
         display:flex ;
@@ -114,6 +119,7 @@ footer
         padding: 15px 25px;
         text-align: center;      
     }   
+<<<<<<< HEAD
 
     .photos{
         display: flex;
@@ -274,3 +280,7 @@ footer
       }
 
    
+=======
+  
+
+>>>>>>> 5389a27a9d6e2454ea99aec7aa1f913ca17555f9
