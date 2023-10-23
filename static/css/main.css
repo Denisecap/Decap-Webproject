@@ -48,16 +48,6 @@ footer
      color: black;
 }
 
-<<<<<<< HEAD
-    h1 {text-align: center;}
-    p {font-size: x-large;}
-    
-    /*div {text-align: center;}*/
-=======
-
->>>>>>> 5389a27a9d6e2454ea99aec7aa1f913ca17555f9
-
-
 
 
 
@@ -119,7 +109,7 @@ footer
         padding: 15px 25px;
         text-align: center;      
     }   
-<<<<<<< HEAD
+
 
     .photos{
         display: flex;
@@ -262,25 +252,58 @@ footer
 
 
 
+footer {
+    background-color: #333;
+    color: white;
+    padding: 5px 0;
+    text-align: center;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.footer-logo img {
+    width: 40px;
+    height: auto;
+}
+
+.footer-links ul,
+.footer-social ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-links li,
+.footer-social li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.footer-links a,
+.footer-social a {
+    text-decoration: none;
+    color: white;
+    font-size: 10px;
+    transition: color 0.3s;
+}
+
+.footer-links a:hover,
+.footer-social a:hover {
+    color: #ff4500; /* Nike's signature orange color */
+}
+
+.footer-disclaimer {
+    font-size: 10px;
+    margin-top: 5px;
+}
+
+     
     
-    
-
-
-    .footer {
-        position: relative;
-        left: 0;
-        bottom: 0;
-        width: 900px;
-        height: 900px;
-        padding: 60px;
-        
-        background-color: black;
-        color: white;
-        text-align: left;
-      }
-
    
-=======
-  
 
->>>>>>> 5389a27a9d6e2454ea99aec7aa1f913ca17555f9
