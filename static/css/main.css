@@ -267,9 +267,10 @@ footer {
     margin: 0 auto;
 }
 
-.footer-logo img {
-    width: 40px;
-    height: auto;
+.footer-logo {
+    font-family: "Arial";
+    font-size: 50px; 
+    font-weight: bold;
 }
 
 .footer-links ul,

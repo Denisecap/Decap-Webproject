@@ -10,9 +10,8 @@
     </div>
 
     <footer>
-      <div class="footer-container">
-          <div class="footer-logo">
-              <img src="nike-logo.png" alt="Nike Logo">
+          <div class="footer-logo">   
+              Nike
           </div>
           <div class="footer-links">
               <ul>
@@ -29,7 +28,6 @@
                   <li><a href="#"><i class="fab fa-instagram"></i></a></li>
               </ul>
           </div>
-      </div>
       <div class="footer-disclaimer">
           &copy; 2023 Nike Store. All Rights Reserved.
       </div>
