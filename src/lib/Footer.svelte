@@ -15,10 +15,10 @@
           </div>
           <div class="footer-links">
               <ul>
-                  <li><a href="#">Shop</a></li>
-                  <li><a href="#">Collections</a></li>
-                  <li><a href="#">About Us</a></li>
-                  <li><a href="#">Contact</a></li>
+                  <li><a href="../src/routes/Shop/+page.svelte">Shop</a></li>
+                  <li><a href="../src/routes/Collections/+page.svelte">Collections</a></li>
+                  <li><a href="../src/routes/About Us/+page.svelte">About Us</a></li>
+                  <li><a href="../src/routes/contact/+page.svelte">Contact</a></li>
               </ul>
           </div>
           <div class="footer-social">
