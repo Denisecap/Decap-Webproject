@@ -21,13 +21,7 @@
                   <li><a href="../src/routes/contact/+page.svelte">Contact</a></li>
               </ul>
           </div>
-          <div class="footer-social">
-              <ul>
-                  <li><a href="#"><i class="fab fa-facebook"></i></a></li>
-                  <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                  <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-              </ul>
-          </div>
+
       <div class="footer-disclaimer">
           &copy; 2023 Nike Store. All Rights Reserved.
       </div>
