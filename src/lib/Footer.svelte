@@ -3,10 +3,6 @@
 </script>
  
     <div class="footer">
-      <p>Nike</p>
-      <h1>
-       
-      </h1>
     </div>
 
     <footer>

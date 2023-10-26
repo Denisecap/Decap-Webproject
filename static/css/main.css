@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box;
+    text-align: center;
 }
 body{   
     margin:0;
@@ -95,21 +96,6 @@ footer
     }
     
     
-    
-    nav
-    {
-        display:flex ;
-        flex-wrap:wrap;
-    }
-
-    nav a
-    {
-        text-decoration: none;
-        display: block;
-        padding: 15px 25px;
-        text-align: center;      
-    }   
-
 
     .photos{
         display: flex;
@@ -307,7 +293,7 @@ header
 {
     background-color: white(0, 174, 255);
     color: black;
-    font-size: large;       
+    font-size: large;      
 }       
 
 /* Nav styling*/
@@ -324,7 +310,7 @@ nav
         text-decoration: dotted;        
         text-decoration-style:none;
         padding: 50px 40px;
-        text-align:justify ;
+        text-align:center ;
         position: relative;
         color:white;
         font-size: x-large;
@@ -338,5 +324,18 @@ nav
         z-index: 1;
     }
     
+    nav
+    {
+        display:flex ;
+        flex-wrap:wrap;
+    }
+
+    nav a
+    {
+        text-decoration: none;
+        display: block;
+        padding: 15px 25px;
+        text-align: center;      
+    }   
    
 
