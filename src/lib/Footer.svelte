@@ -7,7 +7,6 @@
 
     <footer>
           <div class="footer-logo">   
-              
           </div>
           <div class="footer-links">
               <ul>
