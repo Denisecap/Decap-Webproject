@@ -7,7 +7,7 @@
 
     <footer>
           <div class="footer-logo">   
-              Nike
+              
           </div>
           <div class="footer-links">
               <ul>
