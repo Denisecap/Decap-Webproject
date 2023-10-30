@@ -23,7 +23,7 @@
             </div>
             <div class="contact-item">
                 <h2>Address</h2>
-                <p>597, George Street</p>
+                <p>597, George</p>
             </div>
         </div>
 
@@ -37,7 +37,9 @@
                 <input type="email" id="email" name="email" required>
 
                 <label for="message">Message</label>
-                <textarea id="message" name="message" rows="4" required></textarea
+                <textarea id="message" name="message" rows="4" required>
+                    
+        </textarea
 
     
 
