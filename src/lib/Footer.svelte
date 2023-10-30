@@ -23,7 +23,9 @@
   </footer>
   
   
-  /* My JavaScript code
+  
+
+  
   <footer>
     <div class="footer-container">
         <div class="footer-logo">
