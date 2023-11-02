@@ -21,7 +21,7 @@
 <body>
     <main>
         <div class="shop-now-box">
-            <a href="#">SHOP NOW</a>
+            <a>SHOP NOW</a>
         </div>
     </main>
 </body>

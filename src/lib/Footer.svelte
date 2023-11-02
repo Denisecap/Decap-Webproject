@@ -32,10 +32,10 @@
            
         </div>
         <div class="footer-links">
-            <!-- Your links go here -->
+            
         </div>
         <div class="footer-social">
-            <!-- Your social icons go here -->
+           
         </div>
     </div>
     <div class="footer-disclaimer">
@@ -45,10 +45,10 @@
 </footer>
 
 <style>
-    /* CSS for the JavaScript attribution */
+    
     #js-attribution {
         text-decoration: none;
-        color: #007bff; /* Blue color for the link, you can change it */
+        color: #007bff; 
     }
 
     #js-attribution:hover {

@@ -339,7 +339,7 @@ nav
     }   
    
 
-/* styles.css */
+/* contact.css */
 
 body {
     font-family: Arial, sans-serif;
@@ -719,9 +719,9 @@ footer {
 
 /* men style */
 
-/* styles.css */
 
-/* Styles for the product images and product list */
+
+
 .product-list {
     display: flex;
     flex-wrap: wrap;
