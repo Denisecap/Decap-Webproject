@@ -51,7 +51,6 @@
             <a href="#"><img src="twitter.png" alt="Twitter"></a>
             <a href="#"><img src="instagram.png" alt="Instagram"></a>
         </div>
-        
     </footer>
 </body>
 </html>
