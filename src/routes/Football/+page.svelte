@@ -15,7 +15,6 @@
                     <li><a href="#matches">Matches</a></li>
                     <li><a href="#teams">Teams</a></li>
                     <li><a href="#gallery">Gallery</a></li>
-                    <li><a href="#contact">Contact</a></li>
                 </ul>
             </div>
         </nav>
