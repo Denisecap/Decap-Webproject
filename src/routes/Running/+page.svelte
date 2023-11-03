@@ -14,7 +14,6 @@
                 <ul>
                     <li><a href="#about">About Running</a></li>
                     <li><a href="#gallery">Gallery</a></li>
-                    <li><a href="#contact">Contact</a></li>
                 </ul>
             </div>
         </nav>
@@ -29,7 +28,6 @@
 
     <section id="gallery">
         <div class="container">
-            <h2>Running Gallery</h2>
             <div class="image-gallery">
                 <img src="running-image1.jpg" alt="Running Image 1">
                 <img src="running-image2.jpg" alt="Running Image 2">
