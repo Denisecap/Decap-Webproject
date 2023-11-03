@@ -47,10 +47,6 @@
         </div>
     </section>
 
-    <footer>
-        <div class="container">
-            <p>&copy; 2023 Running World. All rights reserved.</p>
-        </div>
-    </footer>
+
 </body>
 </html>
