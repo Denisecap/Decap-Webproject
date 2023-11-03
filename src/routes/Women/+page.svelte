@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -41,7 +41,7 @@
                 <p>Stay cool and comfortable during your runs with our running shorts.</p>
                 
             </div>
-            <!-- Add more women's Nike products with images here -->
+            
         </div>
     </main>
 
