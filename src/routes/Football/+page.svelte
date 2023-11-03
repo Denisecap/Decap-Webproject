@@ -52,12 +52,6 @@
             <a class="btn" href="mailto:info@nikefootball.com">Email Us</a>
         </div>
     </section>
-
-    <footer>
-        <div class="container">
-            <p>&copy; 2023 Nike Football. All rights reserved.</p>
-        </div>
-    </footer>
 </body>
 </html>
 
