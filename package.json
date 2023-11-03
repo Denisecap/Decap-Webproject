@@ -1,17 +1,71 @@
 {
-	"name": "decap-webproject",
-	"version": "0.0.1",
-	"private": true,
-	"scripts": {
-		"dev": "vite dev",
-		"build": "vite build",
-		"preview": "vite preview"
-	},
-	"devDependencies": {
-		"@sveltejs/adapter-auto": "^2.0.0",
-		"@sveltejs/kit": "^1.20.4",
-		"svelte": "^4.0.5",
-		"vite": "^4.4.2"
-	},
-	"type": "module"
+  "name": "decap-webproject",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-auto": "^2.0.0",
+    "@sveltejs/kit": "^1.20.4",
+    "svelte": "^4.0.5",
+    "vite": "^4.4.2"
+  },
+  "type": "module",
+  "description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+  "main": "svelte.config.js",
+  "dependencies": {
+    "acorn": "^8.10.0",
+    "aria-query": "^5.3.0",
+    "axobject-query": "^3.2.1",
+    "busboy": "^1.6.0",
+    "code-red": "^1.0.3",
+    "cookie": "^0.5.0",
+    "css-tree": "^2.3.1",
+    "debug": "^4.3.4",
+    "deepmerge": "^4.3.1",
+    "dequal": "^2.0.3",
+    "devalue": "^4.3.2",
+    "esbuild": "^0.18.14",
+    "esm-env": "^1.0.0",
+    "estree-walker": "^3.0.3",
+    "express": "^4.18.2",
+    "import-meta-resolve": "^3.0.0",
+    "is-reference": "^3.0.1",
+    "kleur": "^4.1.5",
+    "locate-character": "^3.0.0",
+    "magic-string": "^0.30.1",
+    "mdn-data": "^2.0.30",
+    "mime": "^3.0.0",
+    "mri": "^1.2.0",
+    "mrmime": "^1.0.1",
+    "ms": "^2.1.2",
+    "nanoid": "^3.3.6",
+    "periscopic": "^3.1.0",
+    "picocolors": "^1.0.0",
+    "postcss": "^8.4.26",
+    "rollup": "^3.26.3",
+    "sade": "^1.8.1",
+    "set-cookie-parser": "^2.6.0",
+    "sirv": "^2.0.3",
+    "source-map-js": "^1.0.2",
+    "streamsearch": "^1.1.0",
+    "svelte-hmr": "^0.15.2",
+    "totalist": "^3.0.1",
+    "undici": "^5.22.1",
+    "vitefu": "^0.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Denisecap/Decap-Webproject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Denisecap/Decap-Webproject/issues"
+  },
+  "homepage": "https://github.com/Denisecap/Decap-Webproject#readme"
 }
