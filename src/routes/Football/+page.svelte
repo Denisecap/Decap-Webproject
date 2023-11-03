@@ -22,7 +22,7 @@
 
     <section id="matches">
         <div class="container">
-            <h2>Upcoming Matches</h2>
+    
         
         </div>
     </section>
@@ -36,7 +36,6 @@
 
     <section id="gallery">
         <div class="container">
-            <h2>Football Gallery</h2>
             <div class="image-gallery">
                 <img src="football-image1.jpg" alt="Football Image 1">
                 <img src="football-image2.jpg" alt="Football Image 2">
