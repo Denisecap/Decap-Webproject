@@ -54,12 +54,6 @@
             <a class="btn" href="mailto:info@footballworld.com">Email Us</a>
         </div>
     </section>
-
-    <footer>
-        <div class="container">
-            <p>&copy; 2023 Football World. All rights reserved.</p>
-        </div>
-    </footer>
 </body>
 </html>
 
