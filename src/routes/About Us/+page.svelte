@@ -6,10 +6,6 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-        <!-- Your navigation menu, logo, and other header content -->
-    </header>
-
     <main>
         <h1>About Nike Shop</h1>
 
@@ -22,9 +18,5 @@
             <p>At Nike Shop, our mission is to inspire and equip individuals to be the best version of themselves through the power of sports and athleticism. We believe that everyone has the potential to achieve greatness, and we're committed to helping you reach your goals.</p>
         </div>
     </main>
-
-    <footer>
-        <!-- Your footer content and links to social media -->
-    </footer>
 </body>
 </html>
