@@ -159,7 +159,7 @@ header
         {
             display:flex ;
             flex-wrap:wrap;
-            text-align: center;
+            text-align: center;           
         }
 
     nav a
@@ -181,12 +181,6 @@ header
         z-index: 1;
     }
     
-    nav
-    {
-        display:flex ;
-        flex-wrap:wrap;
-        }
-
     nav a
     {
         text-decoration: none;
