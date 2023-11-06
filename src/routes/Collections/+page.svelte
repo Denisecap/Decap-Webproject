@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,7 +7,7 @@
 </head>
 <body>
     <header>
-        <!-- Your navigation menu, logo, and other header content -->
+        
     </header>
 
     <main>
@@ -34,7 +33,7 @@
     </main>
 
     <footer>
-        <!-- Your footer content and links to social media -->
+       
     </footer>
 </body>
 </html>

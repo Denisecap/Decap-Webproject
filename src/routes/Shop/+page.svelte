@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -30,7 +30,7 @@
                 <p>Elevate your style with the latest Nike sportswear collection.</p>
                 <a href="#">Shop Now</a>
             </div>
-            <!-- Add more featured products here -->
+           
         </div>
     </main>
 
