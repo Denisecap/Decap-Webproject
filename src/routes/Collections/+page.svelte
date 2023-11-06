@@ -6,10 +6,6 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-        
-    </header>
-
     <main>
         <h1>Nike Collections</h1>
 
@@ -31,9 +27,5 @@
             <a href="holiday-collection.html">View Collection</a>
         </div>
     </main>
-
-    <footer>
-       
-    </footer>
 </body>
 </html>
