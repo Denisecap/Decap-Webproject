@@ -4,4 +4,3 @@
     <a href="../src/routes/Men/+page.svelte">Men</a>
  
 </nav>
-
