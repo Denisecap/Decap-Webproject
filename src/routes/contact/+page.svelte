@@ -38,7 +38,7 @@
                 <label for="message">Message</label>
                 <textarea id="message" name="message" rows="4" required>
                     
-        </textarea
+            </textarea>
 
     
 
