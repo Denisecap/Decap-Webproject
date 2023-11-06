@@ -6,10 +6,6 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-
-    </header>
-
     <main>
         <h1>Men's Nike Collection</h1>
 
@@ -33,9 +29,5 @@
            
         </div>
     </main>
-
-    <footer>
-        
-    </footer>
 </body>
 </html>
