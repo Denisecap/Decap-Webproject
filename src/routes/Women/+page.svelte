@@ -18,7 +18,6 @@
 
         <nav class="header-nav">
             <ul>
-                <li><a href="#">Home</a></li>
                 <li><a href="#">Products</a></li>
                 <li><a href="#">Brands</a></li>
                 <li><a href="#">Contact</a></li>
@@ -28,7 +27,7 @@
 
     <section class="product-grid">
         <div class="product">
-            <img src="product1.jpg" alt="Product 1">
+            <img src="/img/pexels-terrance-barksdale-11737179.jpg" alt="Product 1">
             <h2>Product 1</h2>
             <p>Price: $29.99</p>
         </div>
