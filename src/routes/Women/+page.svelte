@@ -35,12 +35,18 @@
                 <p>Find inner peace and balance in our comfortable yoga apparel.</p>
                 
             </div>
-            <div class="product">
+            <class class="product">
                 <img src="women_product4.jpg" alt="Women's Nike Product 4">
                 <h3>Nike Running Shorts</h3>
                 <p>Stay cool and comfortable during your runs with our running shorts.</p>
                 
-            </div>
+            </class>
+            <class class="product">
+                <img src="women_product4.jpg" alt="Women's Nike Product 4">
+                <h3>Nike Running Shorts</h3>
+                <p>Stay cool and comfortable during your runs with our running shorts.</p>
+                
+            </class>
             
         </div>
     </main>
