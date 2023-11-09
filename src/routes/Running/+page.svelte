@@ -8,7 +8,6 @@
     <header>
         <nav>
             <div class="container">
-                <h1></h1>
                 <ul>
                     <li><a href="#features">Features</a></li>
                     <li><a href="#products">Products</a></li>
