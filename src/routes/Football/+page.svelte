@@ -69,23 +69,8 @@
                 <img src="nike-football-boots2.jpg" alt="Nike Football Boots 2">
                 <h3>Under armour</h3>
                 <p>Price: $179.99</p>
-            </div>
-
-            
-
-
-            
-
+            </div>        
         </div>
-    </section>
-
-    <section id="contact">
-        <div class="container">
-            <h2>Contact Us</h2>
-            <p>If you have questions about Nike football products or need assistance, please don't hesitate to contact us. We're here to help.</p>
-            <a class="btn" href="mailto:info@nikefootball.com">Email Us</a>
-        </div>
-    </section>
 </body>
 
 
