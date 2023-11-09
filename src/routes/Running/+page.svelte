@@ -40,6 +40,38 @@ q<head>
                 <p>The Nike Free RN offers a barefoot-like feel with cushioning, making it great for natural running movements.</p>
                 <p>Price: $99.99</p>
             </div>
+
+            <div class="product-card">
+                <img src="nike-football-boots2.jpg" alt="Nike Football Boots 2">
+                <h3>Under armour</h3>
+                <p>Price: $179.99</p>
+            </div>
+
+            <div class="product-card">
+                <img src="nike-football-boots2.jpg" alt="Nike Football Boots 2">
+                <h3>New balance</h3>
+                <p>Price: $179.99</p>
+            </div>
+
+            <div class="product-card">
+                <img src="nike-football-boots2.jpg" alt="Nike Football Boots 2">
+                <h3>Nike</h3>
+                <p>Price: $179.99</p>
+            </div>
+
+            <div class="product-card">
+                <img src="nike-football-boots2.jpg" alt="Nike Football Boots 2">
+                <h3>Puma</h3>
+                <p>Price: $179.99</p>
+            </div>
+
+            <div class="product-card">
+                <img src="nike-football-boots2.jpg" alt="">
+                <h3>Nike Adidas</h3>
+                <p>Price: $179.99</p>
+            </div>
+
+
       
         </div>
     </section>
