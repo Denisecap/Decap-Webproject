@@ -6,16 +6,17 @@
 </head>
 <body>
     <header>
-        <nav>
-            <div class="container">
-               
-                <ul>
-                    <li><a href="#about">About Nike Football</a></li>
-                    <li><a href="#products">Nike Football Products</a></li>
-                    <li><a href="#contact">Contact</a></li>
-                </ul>
-            </div>
-        </nav>
+        <header>
+            <nav>
+                <div class="container">
+                    <ul>
+                        <li><a href="#features">Features</a></li>
+                        <li><a href="#products">Products</a></li>
+                        <li><a href="#reviews">Reviews</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
     </header>
 
     <section id="about">
