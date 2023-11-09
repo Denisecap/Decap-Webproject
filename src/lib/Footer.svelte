@@ -38,7 +38,7 @@
     </div>
     <div class="footer-disclaimer">
         &copy; <span id="currentYear"></span> Nike | 
-        <a href="#" id="js-attribution">Denise Caponpon</a>
+        <a id="js-attribution">Denise Caponpon</a>
     </div>
 </footer>
 
