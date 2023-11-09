@@ -8,11 +8,11 @@
     <header>
         <nav>
             <div class="container">
-                
+                <h1></h1>
                 <ul>
-                    <li><a href="#about">About Nike Running</a></li>
-                    <li><a href="#products">Nike Running Products</a></li>
-                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="#features">Features</a></li>
+                    <li><a href="#products">Products</a></li>
+                    <li><a href="#reviews">Reviews</a></li>
                 </ul>
             </div>
         </nav>
