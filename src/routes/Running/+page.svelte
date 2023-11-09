@@ -1,4 +1,4 @@
-q<head>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nike Running</title>
@@ -71,18 +71,12 @@ q<head>
                 <p>Price: $179.99</p>
             </div>
 
-
-      
-        </div>
-    </section>
-
-    <section id="contact">
-        <div class="container">
-            <h2>Contact Us</h2>
-            <p>If you have questions about Nike running products or need assistance, please don't hesitate to contact us. We're here to help.</p>
-            <a class="btn" href="mailto:info@nikerunning.com">Email Us</a>
-        </div>
-    </section>
+            <div class="product-card">
+                <img src="react-element-55.jpg" alt="Skechers">
+                <h3>Nike Skechers</h3>
+                <p>Comfortable and stylish Nike Skechers shoes.</p>
+                <p>Price: $99.99</p>
+            </div>
 </body>
 
 
