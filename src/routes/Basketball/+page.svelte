@@ -45,7 +45,7 @@
             <div class="product-card">
                 <img src="react-element-55.jpg" alt="Converse">
                 <h3>Nike Converse</h3>
-                <p>Comfortable and stylish Nike React Element shoes.</p>
+                <p>Comfortable and stylish Nike Converse shoes.</p>
                 <p>Price: $99.99</p>
             </div>
 
@@ -59,21 +59,21 @@
             <div class="product-card">
                 <img src="react-element-55.jpg" alt="Air Force">
                 <h3>Nike Air Force </h3>
-                <p>Comfortable and stylish Nike React Element shoes.</p>
+                <p>Comfortable and stylish Nike Air Force shoes.</p>
                 <p>Price: $99.99</p>
             </div>
 
             <div class="product-card">
                 <img src="react-element-55.jpg" alt="Adidas">
                 <h3>Nike Adidas</h3>
-                <p>Comfortable and stylish Nike React Element shoes.</p>
+                <p>Comfortable and stylish Nike Adidas shoes.</p>
                 <p>Price: $99.99</p>
             </div>
 
             <div class="product-card">
                 <img src="react-element-55.jpg" alt="Air Jordan">
                 <h3>Nike Air Jordan</h3>
-                <p>Comfortable and stylish Nike React Element shoes.</p>
+                <p>Comfortable and stylish Nike Air Jordan shoes.</p>
                 <p>Price: $99.99</p>
             </div>
         </div>
