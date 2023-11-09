@@ -41,6 +41,13 @@
                 <p>Comfortable and stylish Nike React Element shoes.</p>
                 <p>Price: $99.99</p>
             </div>
+
+            <div class="product-card">
+                <img src="react-element-55.jpg" alt="React Element 55">
+                <h3>Nike React Element 55</h3>
+                <p>Comfortable and stylish Nike React Element shoes.</p>
+                <p>Price: $99.99</p>
+            </div>
             
             <div class="product-card">
                 <img src="react-element-55.jpg" alt="React Element 55">
