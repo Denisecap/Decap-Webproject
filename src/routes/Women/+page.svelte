@@ -24,7 +24,7 @@
                 
             </div>
             <div class="product">
-                <img src="/img/pexels-terrance-barksdale-11737179.jpg" alt="Women's Nike Product 2">
+                <img src="" alt="Women's Nike Product 2">
                 <h3>Nike Sportswear</h3>
                 <p>Elevate your style with the latest Nike sportswear collection.</p>
                 
