@@ -44,35 +44,30 @@
             <div class="product-card">
                 <img src="nike-football-boots2.jpg" alt="">
                 <h3>Nike Adidas</h3>
-                <p>The Nike Tiempo Legend is known for its classic style and durability. It offers exceptional comfort and control on the pitch.</p>
                 <p>Price: $179.99</p>
             </div>
 
             <div class="product-card">
                 <img src="nike-football-boots2.jpg" alt="Nike Football Boots 2">
                 <h3>Puma</h3>
-                <p>The Nike Tiempo Legend is known for its classic style and durability. It offers exceptional comfort and control on the pitch.</p>
                 <p>Price: $179.99</p>
             </div>
 
             <div class="product-card">
                 <img src="nike-football-boots2.jpg" alt="Nike Football Boots 2">
                 <h3>Nike</h3>
-                <p>The Nike Tiempo Legend is known for its classic style and durability. It offers exceptional comfort and control on the pitch.</p>
                 <p>Price: $179.99</p>
             </div>
 
             <div class="product-card">
                 <img src="nike-football-boots2.jpg" alt="Nike Football Boots 2">
                 <h3>New balance</h3>
-                <p>The Nike Tiempo Legend is known for its classic style and durability. It offers exceptional comfort and control on the pitch.</p>
                 <p>Price: $179.99</p>
             </div>
 
             <div class="product-card">
                 <img src="nike-football-boots2.jpg" alt="Nike Football Boots 2">
                 <h3>Under armour</h3>
-                <p>The Nike Tiempo Legend is known for its classic style and durability. It offers exceptional comfort and control on the pitch.</p>
                 <p>Price: $179.99</p>
             </div>
 
