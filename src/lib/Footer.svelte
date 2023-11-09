@@ -23,9 +23,7 @@
   </footer>
   
   
-  
-
-  
+ 
   <footer>
     <div class="footer-container">
         <div class="footer-logo">
@@ -43,6 +41,7 @@
         <a href="#" id="js-attribution">Denise Caponpon</a>
     </div>
 </footer>
+
 
 <style>
     

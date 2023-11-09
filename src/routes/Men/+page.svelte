@@ -15,13 +15,13 @@
 
         <div class="product-list">
             <div class="product">
-                <img src="/img/pexels-kevin-mccartney-774321.jpg" alt="Men's Nike Product 1">
+                <img src="" alt="Men's Nike Product 1">
                 <h3>Nike Running Shoes</h3>
                 <p>Experience comfort and performance with these top-rated running shoes.</p>
                 
             </div>
             <div class="product">
-                <img src="/img/footballimg2.jpg" alt="Men's Nike Product 2">
+                <img src="" alt="Men's Nike Product 2">
                 <h3>Nike Sportswear</h3>
                 <p>Elevate your style with the latest Nike sportswear collection.</p>
                 
