@@ -8,7 +8,7 @@
     <header>
         <nav>
             <div class="container">
-                <h1>Nike Running</h1>
+                
                 <ul>
                     <li><a href="#about">About Nike Running</a></li>
                     <li><a href="#products">Nike Running Products</a></li>
